@@ -1,1 +1,1 @@
-Download the dataset from Kaggle - https://www.kaggle.com/c/dogs-vs-cats
+Download the dataset from Kaggle and unzip it in the `train` folder - https://www.kaggle.com/c/dogs-vs-cats
