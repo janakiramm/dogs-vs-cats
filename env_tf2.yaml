@@ -1,0 +1,10 @@
+name: tf2
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - ipywidgets
+    - tensorflow
+    - numpy
+    - pandas
+    - matplotlib
