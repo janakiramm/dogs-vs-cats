@@ -1,5 +1,5 @@
 *.zip
-.ipynb_checkpoints
+**/*.ipynb_checkpoints/
 dataset/
 model/
 train/.ipynb_checkpoints/
